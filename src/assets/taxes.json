@@ -1,0 +1,671 @@
+[
+  {
+    "year": "2017",
+    "brackets": {
+      "Married Filing Joint": [
+        {
+          "taxable income": {
+            "min": 0,
+            "max": 18650
+          },
+          "tax due": {
+            "base": 0,
+            "percent": 0.10,
+            "percentOf": 0
+          }
+        },
+        {
+          "taxable income": {
+            "min": 18651,
+            "max": 75900
+          },
+          "tax due": {
+            "base": 1865,
+            "percent": 0.15,
+            "ofAmountOver": 18650
+          }
+        },
+        {
+          "taxable income": {
+            "min": 75901,
+            "max": 153100
+          },
+          "tax due": {
+            "base": 10452.50,
+            "percent": 0.25,
+            "ofAmountOver": 75900
+          }
+        },
+        {
+          "taxable income": {
+            "min": 153101,
+            "max": 233350
+          },
+          "tax due": {
+            "base": 29752.50,
+            "percent": 0.28,
+            "ofAmountOver": 153100
+          }
+        },
+        {
+          "taxable income": {
+            "min": 233351,
+            "max": 416700
+          },
+          "tax due": {
+            "base": 52222.50,
+            "percent": 0.33,
+            "ofAmountOver": 233350
+          }
+        },
+        {
+          "taxable income": {
+            "min": 416701,
+            "max": 470700
+          },
+          "tax due": {
+            "base": 112728,
+            "percent": 0.35,
+            "ofAmountOver": 416700
+          }
+        },
+        {
+          "taxable income": {
+            "min": 470701,
+            "max": 0
+          },
+          "tax due": {
+            "base": 131628,
+            "percent": 0.396,
+            "ofAmountOver": 470700
+          }
+        }
+      ],
+      "Head of Household": [
+        {
+          "taxable income": {
+            "min": 0,
+            "max": 13350
+          },
+          "tax due": {
+            "base": 0,
+            "percent": 0.10,
+            "percentOf": 0
+          }
+        },
+        {
+          "taxable income": {
+            "min": 13501,
+            "max": 50800
+          },
+          "tax due": {
+            "base": 1335,
+            "percent": 0.15,
+            "ofAmountOver": 13350
+          }
+        },
+        {
+          "taxable income": {
+            "min": 50801,
+            "max": 131200
+          },
+          "tax due": {
+            "base": 6952.50,
+            "percent": 0.25,
+            "ofAmountOver": 50800
+          }
+        },
+        {
+          "taxable income": {
+            "min": 131201,
+            "max": 212500
+          },
+          "tax due": {
+            "base": 27052.50,
+            "percent": 0.28,
+            "ofAmountOver": 131200
+          }
+        },
+        {
+          "taxable income": {
+            "min": 212501,
+            "max": 416700
+          },
+          "tax due": {
+            "base": 49816.50,
+            "percent": 0.33,
+            "ofAmountOver": 212500
+          }
+        },
+        {
+          "taxable income": {
+            "min": 416701,
+            "max": 444550
+          },
+          "tax due": {
+            "base": 117202.50,
+            "percent": 0.35,
+            "ofAmountOver": 416700
+          }
+        },
+        {
+          "taxable income": {
+            "min": 444551,
+            "max": 0
+          },
+          "tax due": {
+            "base": 126950,
+            "percent": 0.396,
+            "ofAmountOver": 444550
+          }
+        }
+      ],
+      "Individual": [
+        {
+          "taxable income": {
+            "min": 0,
+            "max": 9325
+          },
+          "tax due": {
+            "base": 0,
+            "percent": 0.10,
+            "percentOf": 0
+          }
+        },
+        {
+          "taxable income": {
+            "min": 9326,
+            "max": 37950
+          },
+          "tax due": {
+            "base": 932.50,
+            "percent": 0.15,
+            "ofAmountOver": 9325
+          }
+        },
+        {
+          "taxable income": {
+            "min": 37951,
+            "max": 91900
+          },
+          "tax due": {
+            "base": 5226.25,
+            "percent": 0.25,
+            "ofAmountOver": 37950
+          }
+        },
+        {
+          "taxable income": {
+            "min": 91901,
+            "max": 191650
+          },
+          "tax due": {
+            "base": 18713.75,
+            "percent": 0.28,
+            "ofAmountOver": 91900
+          }
+        },
+        {
+          "taxable income": {
+            "min": 191651,
+            "max": 416700
+          },
+          "tax due": {
+            "base": 46643.75,
+            "percent": 0.33,
+            "ofAmountOver": 191650
+          }
+        },
+        {
+          "taxable income": {
+            "min": 416701,
+            "max": 418400
+          },
+          "tax due": {
+            "base": 120910.25,
+            "percent": 0.35,
+            "ofAmountOver": 416700
+          }
+        },
+        {
+          "taxable income": {
+            "min": 418401,
+            "max": 0
+          },
+          "tax due": {
+            "base": 121505.25,
+            "percent": 0.396,
+            "ofAmountOver": 418400
+          }
+        }
+      ],
+      "Married Filing Separate": [
+        {
+          "taxable income": {
+            "min": 0,
+            "max": 9325
+          },
+          "tax due": {
+            "base": 0,
+            "percent": 0.10,
+            "percentOf": 0
+          }
+        },
+        {
+          "taxable income": {
+            "min": 9326,
+            "max": 37950
+          },
+          "tax due": {
+            "base": 932.50,
+            "percent": 0.15,
+            "ofAmountOver": 9325
+          }
+        },
+        {
+          "taxable income": {
+            "min": 37951,
+            "max": 76550
+          },
+          "tax due": {
+            "base": 5226.25,
+            "percent": 0.25,
+            "ofAmountOver": 37950
+          }
+        },
+        {
+          "taxable income": {
+            "min": 76551,
+            "max": 116675
+          },
+          "tax due": {
+            "base": 14876.25,
+            "percent": 0.28,
+            "ofAmountOver": 76550
+          }
+        },
+        {
+          "taxable income": {
+            "min": 116676,
+            "max": 208350
+          },
+          "tax due": {
+            "base": 26111.25,
+            "percent": 0.33,
+            "ofAmountOver": 116675
+          }
+        },
+        {
+          "taxable income": {
+            "min": 208351,
+            "max": 235350
+          },
+          "tax due": {
+            "base": 56364,
+            "percent": 0.35,
+            "ofAmountOver": 208350
+          }
+        },
+        {
+          "taxable income": {
+            "min": 235351,
+            "max": 0
+          },
+          "tax due": {
+            "base": 65814,
+            "percent": 0.396,
+            "ofAmountOver": 235350
+          }
+        }
+      ]
+    },
+    "Deductions": {
+      "Standard Deduction": [ ],
+      "Personal Exemption": [ ],
+      "Pease Limitations": [ ]
+    }
+  },
+  {
+    "year": "2018 (old)",
+    "brackets": {
+      "Married Filing Joint": [
+        {
+          "taxable income": {
+            "min": 0,
+            "max": 19050
+          },
+          "tax due": {
+            "base": 0,
+            "percent": 0.10,
+            "percentOf": 0
+          }
+        },
+        {
+          "taxable income": {
+            "min": 19051,
+            "max": 77400
+          },
+          "tax due": {
+            "base": 1905,
+            "percent": 0.15,
+            "ofAmountOver": 19050
+          }
+        },
+        {
+          "taxable income": {
+            "min": 77401,
+            "max": 156150
+          },
+          "tax due": {
+            "base": 10657.50,
+            "percent": 0.25,
+            "ofAmountOver": 77400
+          }
+        },
+        {
+          "taxable income": {
+            "min": 156151,
+            "max": 237950
+          },
+          "tax due": {
+            "base": 30345,
+            "percent": 0.28,
+            "ofAmountOver": 156150
+          }
+        },
+        {
+          "taxable income": {
+            "min": 237951,
+            "max": 424950
+          },
+          "tax due": {
+            "base": 53249,
+            "percent": 0.33,
+            "ofAmountOver": 237950
+          }
+        },
+        {
+          "taxable income": {
+            "min": 424951,
+            "max": 480050
+          },
+          "tax due": {
+            "base": 114959,
+            "percent": 0.35,
+            "ofAmountOver": 424950
+          }
+        },
+        {
+          "taxable income": {
+            "min": 480051,
+            "max": 0
+          },
+          "tax due": {
+            "base": 134244,
+            "percent": 0.396,
+            "ofAmountOver": 480050
+          }
+        }
+      ],
+      "Head of Household": [ 
+        {
+          "taxable income": {
+            "min": 0,
+            "max": 13600
+          },
+          "tax due": {
+            "base": 0,
+            "percent": 0.10,
+            "percentOf": 0
+          }
+        },
+        {
+          "taxable income": {
+            "min": 13601,
+            "max": 51850
+          },
+          "tax due": {
+            "base": 1360,
+            "percent": 0.15,
+            "ofAmountOver": 13600
+          }
+        },
+        {
+          "taxable income": {
+            "min": 51851,
+            "max": 133850
+          },
+          "tax due": {
+            "base": 7097.50,
+            "percent": 0.25,
+            "ofAmountOver": 51850
+          }
+        },
+        {
+          "taxable income": {
+            "min": 133850,
+            "max": 216700
+          },
+          "tax due": {
+            "base": 27597.50,
+            "percent": 0.28,
+            "ofAmountOver": 133850
+          }
+        },
+        {
+          "taxable income": {
+            "min": 216701,
+            "max": 424950
+          },
+          "tax due": {
+            "base": 50795,
+            "percent": 0.33,
+            "ofAmountOver": 216700
+          }
+        },
+        {
+          "taxable income": {
+            "min": 424951,
+            "max": 453350
+          },
+          "tax due": {
+            "base": 119518,
+            "percent": 0.35,
+            "ofAmountOver": 424950
+          }
+        },
+        {
+          "taxable income": {
+            "min": 453351,
+            "max": 0
+          },
+          "tax due": {
+            "base": 129458,
+            "percent": 0.396,
+            "ofAmountOver": 453350
+          }
+        }
+      ],
+      "Individual": [ 
+        {
+          "taxable income": {
+            "min": 0,
+            "max": 9525
+          },
+          "tax due": {
+            "base": 0,
+            "percent": 0.10,
+            "percentOf": 0
+          }
+        },
+        {
+          "taxable income": {
+            "min": 9526,
+            "max": 38700
+          },
+          "tax due": {
+            "base": 95250,
+            "percent": 0.15,
+            "ofAmountOver": 9525
+          }
+        },
+        {
+          "taxable income": {
+            "min": 38701,
+            "max": 93700
+          },
+          "tax due": {
+            "base": 5328.75,
+            "percent": 0.25,
+            "ofAmountOver": 38700
+          }
+        },
+        {
+          "taxable income": {
+            "min": 93701,
+            "max": 195450
+          },
+          "tax due": {
+            "base": 19078.75,
+            "percent": 0.28,
+            "ofAmountOver": 93700
+          }
+        },
+        {
+          "taxable income": {
+            "min": 195451,
+            "max": 424950
+          },
+          "tax due": {
+            "base": 47568.75,
+            "percent": 0.33,
+            "ofAmountOver": 195450
+          }
+        },
+        {
+          "taxable income": {
+            "min": 424951,
+            "max": 426700
+          },
+          "tax due": {
+            "base": 123303.75,
+            "percent": 0.35,
+            "ofAmountOver": 424950
+          }
+        },
+        {
+          "taxable income": {
+            "min": 426701,
+            "max": 0
+          },
+          "tax due": {
+            "base": 123916.25,
+            "percent": 0.396,
+            "ofAmountOver": 426700
+          }
+        }
+      ],
+      "Married Filing Separate": [ 
+        {
+          "taxable income": {
+            "min": 0,
+            "max": 9525
+          },
+          "tax due": {
+            "base": 0,
+            "percent": 0.10,
+            "percentOf": 0
+          }
+        },
+        {
+          "taxable income": {
+            "min": 9526,
+            "max": 38700
+          },
+          "tax due": {
+            "base": 952.50,
+            "percent": 0.15,
+            "ofAmountOver": 9525
+          }
+        },
+        {
+          "taxable income": {
+            "min": 38701,
+            "max": 78075
+          },
+          "tax due": {
+            "base": 5328.75,
+            "percent": 0.25,
+            "ofAmountOver": 38700
+          }
+        },
+        {
+          "taxable income": {
+            "min": 78076,
+            "max": 118975
+          },
+          "tax due": {
+            "base": 15172.50,
+            "percent": 0.28,
+            "ofAmountOver": 78075
+          }
+        },
+        {
+          "taxable income": {
+            "min": 118976,
+            "max": 212475
+          },
+          "tax due": {
+            "base": 26624.50,
+            "percent": 0.33,
+            "ofAmountOver": 118975
+          }
+        },
+        {
+          "taxable income": {
+            "min": 212476,
+            "max": 240025
+          },
+          "tax due": {
+            "base": 57479.50,
+            "percent": 0.35,
+            "ofAmountOver": 212475
+          }
+        },
+        {
+          "taxable income": {
+            "min": 240026,
+            "max": 0
+          },
+          "tax due": {
+            "base": 67122,
+            "percent": 0.396,
+            "ofAmountOver": 240025
+          }
+        }
+      ]
+    },
+    "Deductions": {
+      "Standard Deduction": [ ],
+      "Personal Exemption": [ ],
+      "Pease Limitations": [ ]
+    }
+  },
+  {
+    "year": "2018 (new)",
+    "brackets": {
+      "Married Filing Joint": [ ],
+      "Head of Household": [ ],
+      "Individual": [ ],
+      "Married Filing Separate": [ ]
+    },
+    "Deductions": {
+      "Standard Deduction": [ ],
+      "Personal Exemption": [ ],
+      "Pease Limitations": [ ]
+    }
+  }
+]
+
+
+
