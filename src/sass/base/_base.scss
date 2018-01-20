@@ -1,0 +1,23 @@
+@import '../abstracts/variables';
+
+body {
+  background-color: $tax-background;
+  color: $tax-font-light;
+  font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  color: $tax-font-light;
+  font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 32px;
+  font-weight: 300px;
+  line-height: 35px;
+}
+
+h6 {
+  color: $tax-font-dark;
+  font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 13px;
+}
